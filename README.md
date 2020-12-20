@@ -15,3 +15,9 @@ Mobile apps are everywhere. They are easy to create and can be lucrative. Becaus
 ## github_history_of_the_scala_language
 
 Open source projects contain entire development histories, such as who made changes, the changes themselves, and code reviews. This project will read in, clean up, and visualize the real-world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). With almost 30,000 commits and a history spanning over ten years, Scala is a mature language. This project will find out who has had the most influence on its development and who are the experts.
+
+## visual_history_nobel_prize_winners
+
+The Nobel Prize is perhaps the world's most well known scientific award. Every year it is given to scientists and scholars in chemistry, literature, physics, medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the prize was Eurocentric and male-focused, but nowadays it's not biased in any way. Surely, right?
+
+Well, let's find out! What characteristics do the prize winners have? Which country gets it most often? And has anybody gotten it twice?
