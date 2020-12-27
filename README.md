@@ -21,3 +21,7 @@ Open source projects contain entire development histories, such as who made chan
 The Nobel Prize is perhaps the world's most well known scientific award. Every year it is given to scientists and scholars in chemistry, literature, physics, medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the prize was Eurocentric and male-focused, but nowadays it's not biased in any way. Surely, right?
 
 Well, let's find out! What characteristics do the prize winners have? Which country gets it most often? And has anybody gotten it twice?
+
+## dr_semmelweis_and_the_discovery_of_handwashing
+
+In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
